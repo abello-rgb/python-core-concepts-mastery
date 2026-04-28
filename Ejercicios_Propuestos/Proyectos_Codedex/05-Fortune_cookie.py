@@ -18,7 +18,7 @@ def fortune():
     print(options_list[option])        
 
 
-
+# Invocamos a la funcion tres veces para revisar los resultados
 fortune()
 fortune()
 fortune()
