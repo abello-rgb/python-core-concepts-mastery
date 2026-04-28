@@ -6,13 +6,6 @@ def distance_to_miles(distance_in_km):
     miles = distance_in_km / 1609
     # Paso 3: devolvemos el resultado de la conversión
     return miles
-
-
-
-
-
-
-
 my_distance_in_miles = distance_to_miles(10000)
 
 print(my_distance_in_miles)
