@@ -50,7 +50,7 @@ def cal_area(random_planet, r):
     """
 
     # Fórmula del área superficial de una esfera
-    area = 4 * pi * r**2
+    area = round(4 * pi * r**2)
 
     # Mostramos el nombre del planeta y el área calculada
     print(f'{random_planet}: {area}')
