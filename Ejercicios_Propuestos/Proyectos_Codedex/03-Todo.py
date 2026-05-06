@@ -9,6 +9,8 @@ todo_list = [
     '💻 Complete Lists chapter.',
     '💖 Call mom.',
     '📺 Watch My Hero Academia.'
+    '📺 Watch My Hero Academia.'
+    '📺 Watch My Hero Academia.'
 ]
 
 
